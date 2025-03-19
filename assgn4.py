@@ -26,7 +26,7 @@ def further_options(start_end_digits, reversed_digits):
         else:
             print("Invalid option. Please try again.")
 
-# Prompt user to enter their own list of strings
+# enter your own list of strings
 def get_user_strings():
     user_strings = []
     while True:
